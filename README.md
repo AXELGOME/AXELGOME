@@ -41,8 +41,8 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AXELGOME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXELGOME&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=AXELGOME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXELGOME&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165" alt="langs" />
 </div>
 
 <br>
