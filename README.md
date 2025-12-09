@@ -36,22 +36,19 @@
 ---
 
 <!-- Separador animado -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AXELGOME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXELGOME&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165" alt="langs" />
-</div>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AXELGOME&theme=tokyonight&hide_border=true&locale=es">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AXELGOME&theme=tokyonight&hide_border=true&locale=es" width="100%">
 
 <br><br>
 
 ---
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 
 ## 📈 Actividad Reciente
 
@@ -61,16 +58,16 @@
 
 <!-- FILA 1: Lenguajes (Agrandados) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AXELGOME&theme=tokyonight&width=500" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AXELGOME&theme=tokyonight&width=500" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AXELGOME&theme=tokyonight&width=500" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AXELGOME&theme=tokyonight&width=500" width="49.5%" />
 </div>
 
 <br>
 
 <!-- FILA 2: Stats y Commits (Agrandados) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AXELGOME&theme=tokyonight&width=500" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AXELGOME&theme=tokyonight&utcOffset=-6&width=500" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AXELGOME&theme=tokyonight&width=500" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AXELGOME&theme=tokyonight&utcOffset=-6&width=500" width="49.5%" />
 </div>
 
 <br>
@@ -78,7 +75,7 @@
 ---
 
 <!-- Línea Glowing -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fade.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## ⚡ Proyectos Destacados
 
@@ -93,6 +90,7 @@
 <br>
 
 ---
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🎯 Objetivos Actuales
 
@@ -104,6 +102,7 @@
 <br>
 
 ---
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📫 Contáctame
 
@@ -119,6 +118,7 @@
 <br>
 
 ---
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🐍 Python Snake – Actividad en tiempo real
 
